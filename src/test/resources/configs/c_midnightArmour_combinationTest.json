@@ -1,0 +1,10 @@
+{
+    "player_attack": 10,
+    "player_health": 100,
+    "mercenary_attack": 15,
+    "mercenary_health": 50,
+    "shield_defence": 5,
+    "invincibility_potion_duration": 3,
+    "midnight_armour_attack": 5,
+    "midnight_armour_defence": 5
+}

@@ -1,0 +1,154 @@
+{
+    "entities": [
+      {
+        "x": 3,
+        "y": 3,
+        "type": "wire"
+      },
+      {
+        "x": 4,
+        "y": 3,
+        "type": "wire"
+      },
+      {
+        "x": 5,
+        "y": 3,
+        "type": "wire"
+      },
+      {
+        "x": 0,
+        "y": 4,
+        "type": "switch_door",
+        "logic": "and"
+      },
+      {
+        "x": 1,
+        "y": 4,
+        "type": "wire"
+      },
+      {
+        "x": 2,
+        "y": 4,
+        "type": "wire"
+      },
+      {
+        "x": 3,
+        "y": 4,
+        "type": "switch"
+      },
+      {
+        "x": 4,
+        "y": 4,
+        "type": "switch_door",
+        "logic": "and"
+      },
+      {
+        "x": 5,
+        "y": 4,
+        "type": "wire"
+      },
+      {
+        "x": 0,
+        "y": 5,
+        "type": "boulder"
+      },
+      {
+        "x": 3,
+        "y": 5,
+        "type": "boulder"
+      },
+      {
+        "x": 4,
+        "y": 5,
+        "type": "boulder"
+      },
+      {
+        "x": 4,
+        "y": 6,
+        "type": "player"
+      },
+      {
+        "x": 3,
+        "y": 7,
+        "type": "boulder"
+      },
+      {
+        "x": 5,
+        "y": 7,
+        "type": "boulder"
+      },
+      {
+        "x": 3,
+        "y": 8,
+        "type": "switch"
+      },
+      {
+        "x": 4,
+        "y": 8,
+        "type": "boulder"
+      },
+      {
+        "x": 5,
+        "y": 8,
+        "type": "switch"
+      },
+      {
+        "x": 3,
+        "y": 9,
+        "type": "wire"
+      },
+      {
+        "x": 4,
+        "y": 9,
+        "type": "switch"
+      },
+      {
+        "x": 5,
+        "y": 9,
+        "type": "wire"
+      },
+      {
+        "x": 3,
+        "y": 10,
+        "type": "wire"
+      },
+      {
+        "x": 4,
+        "y": 10,
+        "type": "light_bulb_off",
+        "logic": "co_and"
+      },
+      {
+        "x": 5,
+        "y": 10,
+        "type": "wire"
+      },
+      {
+        "x": 6,
+        "y": 9,
+        "type": "light_bulb_off",
+        "logic": "or"
+      },
+      {
+        "x": 6,
+        "y": 10,
+        "type": "light_bulb_off",
+        "logic": "or"
+      },
+      {
+        "x": 2,
+        "y": 10,
+        "type": "light_bulb_off",
+        "logic": "or"
+      },
+      {
+        "x": 2,
+        "y": 9,
+        "type": "light_bulb_off",
+        "logic": "or"
+      }
+    ],
+    "goal-condition": {
+      "goal": "exit"
+    }
+  }

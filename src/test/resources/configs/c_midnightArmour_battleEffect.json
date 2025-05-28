@@ -1,0 +1,13 @@
+{
+    "player_attack": 5,
+    "player_health": 100,
+    "zombie_attack": 5,
+    "zombie_health": 20,
+    "mercenary_attack": 6,
+    "mercenary_health": 25,
+    "midnight_armour_attack": 5,
+    "midnight_armour_defence": 3,
+    "sword_attack": 3,
+    "zombie_spawn_interval": 5,
+    "invincibility_potion_duration": 3
+}

@@ -1,0 +1,52 @@
+{
+    "entities": [
+        {
+            "type": "player",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "type": "sword",
+            "x": 1,
+            "y": 0
+        },
+        {
+            "type": "sun_stone",
+            "x": 2,
+            "y": 0
+        },
+        {
+            "type": "invincibility_potion",
+            "x": 3,
+            "y": 0
+        },
+        {
+            "type": "invisibility_potion",
+            "x": 4,
+            "y": 0
+        },
+        {
+            "type": "wood",
+            "x": 5,
+            "y": 0
+        },
+        {
+            "type": "wood",
+            "x": 6,
+            "y": 0
+        },
+        {
+            "type": "treasure",
+            "x": 7,
+            "y": 0
+        },
+        {
+            "type": "mercenary",
+            "x": 8,
+            "y": 0
+        }
+    ],
+    "goal-condition": {
+        "goal": "enemy"
+    }
+}

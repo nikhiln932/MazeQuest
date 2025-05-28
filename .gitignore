@@ -1,0 +1,8 @@
+/build/
+/bin/
+*.class
+.idea/
+.vscode/
+.gradle/
+client/
+node_modules/

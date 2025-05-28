@@ -1,0 +1,57 @@
+{
+    "entities": [
+        {
+            "x": 3,
+            "y": 0,
+            "type": "boulder"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "type": "boulder"
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "type": "player"
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "type": "spider"
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "type": "boulder"
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "type": "zombie_toast"
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "type": "zombie_toast_spawner"
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "type": "sword"
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "type": "boulder"
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "type": "boulder"
+        }
+    ],
+    "goal-condition": {
+        "goal": "enemy"
+    }
+}
