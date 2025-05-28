@@ -27,3 +27,6 @@ The backend system is implemented in **Java** using OOP design patterns, providi
 ✅ Tick-based mechanics for synchronized movement and actions  
 
 ---
+
+Note: This repo contains only my backend Java source code (src/) from the assignment.
+All provided scaffolding, frontend, and build system files are excluded to comply with academic integrity and licensing.
